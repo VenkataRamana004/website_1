@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+    <title>RAM07</title>
+</head>
+<body>
+   <h1>Ram Technologies..</h1>
+   <hr>
+   <a href="https://www.youtube.com">youtube</a>
+
+   <nav>
+       &nbsp; &nbsp;   <a href="">HOME</a>
+       &nbsp;    <a href="">CONTACT</a>
+       &nbsp;    <a href="">HELP</a>
+       &nbsp;    <a href="">PRODUCTS</a>
+       &nbsp;    <a href="">OTHERS</a>
+    </nav>
+    <hr>
+   <p>This Websites Provides New Technologies</p>
+   <h2> 1.naruto uzumaki</h2>
+<img src="/Images/naruto.jpg" width="300px" height="340"><br>
+<h3>2.leela</h3>
+<img src="/Images/download.jpeg" width="260" height="350"><br>
+</body>
+</html>
